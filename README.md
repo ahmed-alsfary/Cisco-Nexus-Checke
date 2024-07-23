@@ -35,8 +35,8 @@ pip install netmiko
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/Cisco_Interface_Checker.git
-    cd Cisco_Interface_Checker
+    git clone https://github.com/ahmed-alsfary/Cisco-Nexus-Checke.git
+    cd Cisco-Nexus-Checke
     ```
 
 2. **Edit `devices.py`** to include the connection settings for your Cisco Nexus devices:
@@ -45,20 +45,20 @@ pip install netmiko
     devices = [
         {
             'host': '192.168.51.57',
-            'username': 'Ahmed',
-            'password': 'Hjfh@h&8AnQ',
+            'username': 'username',
+            'password': 'password',
             'secret': 'YOUR_ENABLE_PASSWORD',  # Update with enable password if applicable
         },
         {
             'host': '192.168.51.49',
-            'username': 'Ahmed',
-            'password': 'Hjfh@h&8AnQ',
+            'username': 'username',
+            'password': 'password',
             'secret': 'YOUR_ENABLE_PASSWORD',  # Update with enable password if applicable
         },
         {
             'host': '192.168.51.60',
-            'username': 'Ahmed',
-            'password': 'Hjfh@h&8AnQ',
+            'username': 'username',
+            'password': 'password',
             'secret': 'YOUR_ENABLE_PASSWORD',  # Update with enable password if applicable
         },
         # Add more devices here if needed
