@@ -36,7 +36,7 @@ pip install netmiko
 
     ```sh
     git clone https://github.com/ahmed-alsfary/Cisco-Nexus-Checke.git
-    cd Cisco_Interface_Checker
+    cd Cisco-Nexus-Checke
     ```
 
 2. **Edit `devices.py`** to include the connection settings for your Cisco Nexus devices:
