@@ -35,7 +35,7 @@ pip install netmiko
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/Cisco_Interface_Checker.git
+    git clone https://github.com/ahmed-alsfary/Cisco-Nexus-Checke.git
     cd Cisco_Interface_Checker
     ```
 
