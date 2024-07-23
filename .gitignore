@@ -29,6 +29,8 @@ htmlcov/
 .pytest_cache/
 nosetests.xml
 coverage.xml
+# Environment variables
+.env
 
 # Jupyter Notebook
 .ipynb_checkpoints
